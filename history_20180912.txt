@@ -1,0 +1,18 @@
+    1  firefox &
+    2  lsb_release -a
+    3  u
+    4  uname
+    5  man uname
+    6  uname
+    7  uname -a
+    8  echo $0
+    9  whoami
+   10  who
+   11  pwd
+   12  ls
+   13  ls -l
+   14  man ls
+   15  ls -a
+   16  ls -la
+   17  history
+   18  history > history_20180912.txt
