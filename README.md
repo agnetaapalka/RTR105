@@ -8,9 +8,13 @@
 
 **2. LEKCIJA**
 firefox & - * *palaiž firefox pārlūku* *
+
 **man** + jebkura komanda - * *izprintē komandas iespējas + atslēgas*
+
 uname - * *izprintē operētājsistēmas nosaukumu, versiju un citu info* *
+
   - lsb_release - * *izprintē specifisko informāciju par OS* *
+  
 whoami - * *izprintē lietotāja informāciju*
 echo $0 - * *izprintē pašreizējo ''dialektu'' (valodu)* *
 pwd - * *izprintē pašreizējo direktoriju (atrašanās vietu)* *
