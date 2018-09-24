@@ -1,7 +1,10 @@
 # RTR105
 **DATORMĀCĪBAS KURSA ELEKTRONISKĀ KLADE**
+<p align="center">
+  
+**Pamatkombinācijas**
 
-<center>**Pamatkombinācijas**
+  </p>
 
 - ctrl+alt+t - atver termināli
 - ctrl+l - notīra simbolus terminālī
