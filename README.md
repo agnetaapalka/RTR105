@@ -1,6 +1,7 @@
-# RTR105
-**DATORMĀCĪBAS KURSA ELEKTRONISKĀ KLADE**
 <p align="center">
+   <b># RTR105</b><br>
+   <b>DATORMĀCĪBAS KURSA ELEKTRONISKĀ KLADE</b><br>
+
    <b>Pamatkombinācijas</b><br>
   </p>
 
@@ -8,7 +9,9 @@
 - ctrl+l - notīra simbolus terminālī
 - ctrl+shift+t - atver jaunu tabu terminālī
 
-**2. LEKCIJA**
+<p align="center">
+   <b>2. LEKCIJA</b><br>
+   </p>
 
 firefox & - * *palaiž firefox pārlūku* *
 
@@ -32,8 +35,9 @@ history - * *izprintē visu vēsturi* *
 
 **PIEMĒRS** - history > history_20180912.txt - * *saglabā vēsturi txt failā* *
 
-
-**3. LEKCIJA**
+<p align="center">
+   <b>3. LEKCIJA</b><br>
+   </p>
 
 cd - * *maina direktoriju* *
 
