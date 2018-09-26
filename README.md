@@ -66,3 +66,25 @@ echo + **'teksts'** - * *izprintē tekstu uz ekrāna līnijā* *
  mv - * *pārvieto failu/pārraksta* *
  
  chmod + kods (no bin uz dec) - * *maina faila tiesības* *
+
+
+<p align=''center''>
+
+  <b>4. LEKCIJA</b><br>
+</p>
+
+PATH - * *izprintē ceļus, kuros meklē skriptus* *
+
+nano ...sh - * *izveido teksta failu ar skriptu* *
+
+PATH=$PATH:... - * *pievieno ceļus patha* *
+
+echo - * *printē uz ekrāna* *
+
+/bin/bash - * *kompilers* *
+
+sudo apt-get - * *lejupielādē papildinājumus* *
+
+git clone (githuba repozitārijas) -  * *izveido mapi ar Githuba repozitāriju* *
+
+
