@@ -88,3 +88,23 @@ sudo apt-get - * *lejupielādē papildinājumus* *
 git clone (githuba repozitārijas) -  * *izveido mapi ar Githuba repozitāriju* *
 
 
+<p align=''center''>
+
+  <b>5. LEKCIJA</b><br>
+</p>
+
+*PYTHON*
+
+vars() - * *izprintē funkcijas iespējas* *
+
+__builtins__ - * *izprintē iebūvētās funkcijas* *
+
+__doc__ - * *dokumentē funkciju* *
+
+print (..) - * *izprintē tekstu* *
+
+PYHTON VIDES : 
+
+- python
+- idle
+- ipython
