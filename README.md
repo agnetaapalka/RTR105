@@ -68,9 +68,10 @@ echo + **'teksts'** - * *izprintē tekstu uz ekrāna līnijā* *
  chmod + kods (no bin uz dec) - * *maina faila tiesības* *
 
 
-<p align=''center''>
+<p align="center">
   <b>4. LEKCIJA</b><br>
 </p>
+
 
 PATH - * *izprintē ceļus, kuros meklē skriptus* *
 
@@ -87,9 +88,10 @@ sudo apt-get - * *lejupielādē papildinājumus* *
 git clone (githuba repozitārijas) -  * *izveido mapi ar Githuba repozitāriju* *
 
 
-<p align=''center''>
+<p align="center">
   <b>5. LEKCIJA</b><br>
 </p>
+
 
 *PYTHON*
 
