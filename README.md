@@ -69,7 +69,6 @@ echo + **'teksts'** - * *izprintē tekstu uz ekrāna līnijā* *
 
 
 <p align=''center''>
-
   <b>4. LEKCIJA</b><br>
 </p>
 
@@ -89,7 +88,6 @@ git clone (githuba repozitārijas) -  * *izveido mapi ar Githuba repozitāriju* 
 
 
 <p align=''center''>
-
   <b>5. LEKCIJA</b><br>
 </p>
 
