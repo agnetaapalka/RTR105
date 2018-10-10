@@ -108,3 +108,15 @@ PYHTON VIDES :
 - python
 - idle
 - ipython
+
+<p align="center">
+<b>6. LEKCIJA</b><br>
+</p>
+
+
+print(...) - * *izprintē rakstīto lietotājam* *
+
+type(..) - * *izprintē datu tipu* *
+
+1. vai a*1.  - * *. pievieno skaitlim datu tipu float* *
+
