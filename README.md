@@ -120,3 +120,10 @@ type(..) - * *izprintē datu tipu* *
 
 1. vai a*1.  - * *. pievieno skaitlim datu tipu float* *
 
+integer - * *veselu skaitļu tips* *
+
+string - * *simboli* *
+
+float - * *peldošais tips, daļskaitļi* *
+
+
