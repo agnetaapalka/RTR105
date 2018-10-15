@@ -127,3 +127,36 @@ string - * *simboli* *
 float - * *peldošais tips, daļskaitļi* *
 
 
+
+<p align="center">
+<b>8. LEKCIJA</b><br>
+</p>
+
+Sākot strādāt IDLE, jāatver New file, kurā rakstīt skriptu un ar F5 tas tiek
+palaists 
+
+Pēc nosacījuma noteikšanas, jāievieto : 
+
+< - * *mazāks par* *
+
+<= - * *mazāks vai vienāds* *
+
+== - * *vienāds* *
+
+>= - * *lielāks vai vienāds* *
+
+> - * *lielāks* *
+
+!= - * *nav vienāds* *
+
+= - * *piešķiršana* *
+
+range(5) - * *no 0-4* *
+
+if - * *ja* *
+
+for funkcija
+
+elif - * *vai arī (ja papildus nosacījumi)* *
+
+else - * *ja  ne* *
