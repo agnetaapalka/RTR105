@@ -167,14 +167,30 @@ else - * *ja  ne* *
 </p>
 
 
-print("%d %d %d"%(one,two,three)) - veselu skaitļu interpretācija
+  print("%d %d %d"%(one,two,three)) * *- veselu skaitļu interp* *
 
-       %f %f %f				       - reālu skaitļu interpretācija
+  %f 			* *- reālu skaitļu interp* *
        
-       %s %s %s				       - simbolu rindas interpretācija
-       
-
+  %s 			* *- simbolu rindas interp* *
 
 3. pythonam - print(greet(),"Gleen")
 2. pythonam - greet(),"Gleen"
 visiem - print("s% s%"%(greet(),"Gleen"))
+
+def - * *definē savu funkciju* *
+
+PIEMĒRAM - def thing():
+            print("Hello")
+            
+max - * *maksimālā ASCII vērtība tekstam* *
+
+min - * *minimālā ASCII vērtība tekstam* *
+
+i=42 > f=float(i) > print(f) > 42.0 - * *tipa maiņa* *
+
+sval="123" > ival=int(sval) > print(ival + 1) > 124 - * *maina string tipu uz skaitli* *
+
+return - * *atgriežās ar izpildītu funkciju un rezultātu* *
+
+def addtwo(a,b): added=a+b return added > x=addtwo(3, 5) print(x) > 8 * *vairāki parametri* *
+
