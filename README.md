@@ -168,8 +168,11 @@ else - * *ja  ne* *
 
 
 print("%d %d %d"%(one,two,three)) - veselu skaitļu interpretācija
+
        %f %f %f				       - reālu skaitļu interpretācija
+       
        %s %s %s				       - simbolu rindas interpretācija
+       
 
 
 3. pythonam - print(greet(),"Gleen")
