@@ -161,3 +161,17 @@ elif - * *vai arī (ja papildus nosacījumi)* *
 
 else - * *ja  ne* *
 
+
+<p align="center">
+<b>9. LEKCIJA</b><br>
+</p>
+
+
+print("%d %d %d"%(one,two,three)) - veselu skaitļu interpretācija
+       %f %f %f				       - reālu skaitļu interpretācija
+       %s %s %s				       - simbolu rindas interpretācija
+
+
+3. pythonam - print(greet(),"Gleen")
+2. pythonam - greet(),"Gleen"
+visiem - print("s% s%"%(greet(),"Gleen"))
