@@ -160,3 +160,4 @@ for funkcija
 elif - * *vai arī (ja papildus nosacījumi)* *
 
 else - * *ja  ne* *
+
