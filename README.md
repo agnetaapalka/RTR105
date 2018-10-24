@@ -194,3 +194,166 @@ return - * *atgriežās ar izpildītu funkciju un rezultātu* *
 
 def addtwo(a,b): added=a+b return added > x=addtwo(3, 5) print(x) > 8 * *vairāki parametri* *
 
+
+<p align="center">
+<b>10. LEKCIJA</b><br>
+</p>
+
+<p align="center">
+<b>CIKLI</b><br>
+</p>
+
+n=5
+
+while n>0:
+
+  print(n)
+
+  n=n-1
+
+print("Blastoff!")
+
+print(n)
+
+
+
+
+n = 5            * *nebeidzams cikls* *
+
+while n > 0 :
+
+   print('Lather')
+
+   print('Rinse')
+
+print('Dry off!')
+
+
+
+while True:              * *cikla pārtraukšana* *
+
+line = input('> ')
+
+  if line == 'done' :
+
+  break
+
+ print(line)
+
+print('Done!')
+
+
+
+while True:               * *turpināšanas cikls* *
+
+line = input('> ')
+
+if line[0] == '#' :
+
+continue
+
+if line == 'done' :
+
+break
+
+print(line)
+
+print('Done!')
+
+
+
+
+for i in [5, 4, 3, 2, 1] : - * *definēts cikls* *
+
+print(i)
+
+print('Blastoff!')
+
+
+
+
+
+friends = ['Joseph', 'Glenn', 'Sally'] - * *definēts cikls ar simboliem* *
+
+for friend in friends :
+
+print('Happy New Year:', friend)
+
+print('Done!')
+
+
+
+
+largest_so_far = -1 - * *meklē lielāko vērtību* *
+
+print('Before', largest_so_far)
+
+for the_num in [9, 41, 12, 3, 74, 15] :
+
+if the_num > largest_so_far :
+
+largest_so_far = the_num
+
+print(largest_so_far, the_num)
+
+print('After', largest_so_far)
+
+
+
+
+zork = 0 - * *skaitīšana ciklā* *
+
+print('Before', zork)
+
+for thing in [9, 41, 12, 3, 74, 15] :
+
+zork = zork + 1
+
+print(zork, thing)
+
+print('After', zork)
+
+
+
+zork = 0 - * *saskatīšana ciklā* *
+
+print('Before', zork)
+
+for thing in [9, 41, 12, 3, 74, 15] :
+
+zork = zork + thing
+
+print(zork, thing)
+
+print('After', zork)
+
+
+count = 0 - * *vidējās vērtības meklēšana* *
+
+sum = 0
+
+print('Before', count, sum)
+
+for value in [9, 41, 12, 3, 74, 15] :
+
+count = count + 1
+
+sum = sum + value
+
+print(count, sum, value)
+
+print('After', count, sum, sum / count)
+
+
+
+print('Before') - * *filtrēšna ciklā* *
+
+for value in [9, 41, 12, 3, 74, 15] :
+
+if value > 20:
+
+print('Large number',value)
+
+print('After')
+
+
