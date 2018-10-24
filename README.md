@@ -230,6 +230,10 @@ print('Dry off!')
 
 
 
+
+
+
+
 while True:              * *cikla pārtraukšana* *
 
 line = input('> ')
