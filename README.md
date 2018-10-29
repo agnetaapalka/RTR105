@@ -215,8 +215,7 @@ print("Blastoff!")
 
 print(n)
 
-
-
+---------------------------------------------------------------------------------------
 
 n = 5            * *nebeidzams cikls* *
 
@@ -230,7 +229,7 @@ print('Dry off!')
 
 
 
-
+---------------------------------------------------------------------------------------
 
 
 
@@ -240,13 +239,13 @@ line = input('> ')
 
   if line == 'done' :
 
-  break
+  break (pārtrauc ciklu vispārīgi)
 
  print(line)
 
 print('Done!')
 
-
+---------------------------------------------------------------------------------------
 
 while True:               * *turpināšanas cikls* *
 
@@ -254,7 +253,7 @@ line = input('> ')
 
 if line[0] == '#' :
 
-continue
+continue (neizbeidz ciklu, atgriežas pie nosacījuma)
 
 if line == 'done' :
 
@@ -265,7 +264,7 @@ print(line)
 print('Done!')
 
 
-
+---------------------------------------------------------------------------------------
 
 for i in [5, 4, 3, 2, 1] : - * *definēts cikls* *
 
@@ -274,7 +273,7 @@ print(i)
 print('Blastoff!')
 
 
-
+---------------------------------------------------------------------------------------
 
 
 friends = ['Joseph', 'Glenn', 'Sally'] - * *definēts cikls ar simboliem* *
@@ -286,6 +285,7 @@ print('Happy New Year:', friend)
 print('Done!')
 
 
+---------------------------------------------------------------------------------------
 
 
 largest_so_far = -1 - * *meklē lielāko vērtību* *
@@ -302,7 +302,7 @@ print(largest_so_far, the_num)
 
 print('After', largest_so_far)
 
-
+---------------------------------------------------------------------------------------
 
 
 zork = 0 - * *skaitīšana ciklā* *
@@ -318,7 +318,7 @@ print(zork, thing)
 print('After', zork)
 
 
-
+---------------------------------------------------------------------------------------
 zork = 0 - * *saskatīšana ciklā* *
 
 print('Before', zork)
@@ -331,6 +331,8 @@ print(zork, thing)
 
 print('After', zork)
 
+
+---------------------------------------------------------------------------------------
 
 count = 0 - * *vidējās vērtības meklēšana* *
 
