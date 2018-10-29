@@ -207,9 +207,9 @@ n=5
 
 while n>0:
 
-  print(n)
+_ _ _ _print(n)
 
-  n=n-1
+_ _ _ _n=n-1
 
 print("Blastoff!")
 
@@ -221,9 +221,9 @@ n = 5            * *nebeidzams cikls* *
 
 while n > 0 :
 
-   print('Lather')
+_ _ _ _print('Lather')
 
-   print('Rinse')
+_ _ _ _print('Rinse')
 
 print('Dry off!')
 
@@ -237,11 +237,11 @@ while True:              * *cikla pārtraukšana* *
 
 line = input('> ')
 
-  if line == 'done' :
+if line == 'done' :
 
-  break (pārtrauc ciklu vispārīgi)
+_ _ _ _break (pārtrauc ciklu vispārīgi)
 
- print(line)
+_ _ _ _print(line)
 
 print('Done!')
 
