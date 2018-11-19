@@ -687,4 +687,6 @@ print("Saja", fname, "faila ir", count, "rindas ar vardu teksts")
 </p>
 
 Programmas rezultāts (izmantojot x<0) - https://github.com/agnetaapalka/RTR105/blob/master/exp_f_ja_caur_summu_neg_arguments.jpg
+
+
 Programmas rezultāts (izmantojot x>0) - https://github.com/agnetaapalka/RTR105/blob/master/exp_f_ja_caur_summu_poz_arguments.jpg
