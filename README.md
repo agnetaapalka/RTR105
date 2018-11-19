@@ -675,3 +675,16 @@ count = count + 1
 print("Saja", fname, "faila ir", count, "rindas ar vardu teksts")
 
 --------------------------------------------------------------------------------------------------
+
+
+
+<p align="center">
+<b>1. LABORATORIJAS DARBS</b><br>
+</p>
+
+<p align="center">
+<b>(1+X)*e^x</b><br>
+</p>
+
+Programmas rezultāts (izmantojot x<0) - https://github.com/agnetaapalka/RTR105/blob/master/exp_f_ja_caur_summu_neg_arguments.jpg
+Programmas rezultāts (izmantojot x>0) - https://github.com/agnetaapalka/RTR105/blob/master/exp_f_ja_caur_summu_poz_arguments.jpg
