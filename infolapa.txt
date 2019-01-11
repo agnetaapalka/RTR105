@@ -1,0 +1,2 @@
+https://stackoverflow.com/questions/8370637/complex-numbers-usage-in-python
+https://www.pythonforbeginners.com/files/reading-and-writing-files-in-python
